@@ -112,3 +112,13 @@ body{
 .icon-social i:hover{
   transform: scale(0.95);
 }
+@media(max-width: 800px){
+  *{
+    flex: 100%;
+  }
+}
+@media(max-width: 400px){
+  *{
+    flex: 100%;
+  }
+}
